@@ -1,0 +1,26 @@
+body {
+    background-color:beige;
+}
+
+.main_stuff {
+    text-align:center;
+    font-size:medium;
+}
+
+.top_box {
+    background-color:teal;
+    font-size:large;
+    font-weight:bold;
+    text-align:center;
+    height:25;
+}
+
+#enter {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size:large;
+}
+
+#output {
+    text-align:center;
+    font-size:large;
+}
